@@ -1,0 +1,26 @@
+{
+  "name": "exernodecrashcourse",
+  "version": "1.0.0",
+  "description": "Node crash course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node idex",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emorris2/exerNodeCrashCourse.git"
+  },
+  "author": "Emma Morris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emorris2/exerNodeCrashCourse/issues"
+  },
+  "homepage": "https://github.com/emorris2/exerNodeCrashCourse#readme",
+  "dependencies": {
+    "uuid": "^8.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
